@@ -1,0 +1,32 @@
+_repo: Clerambault-b-Histoire-d-une-concience-libre-pendant-la-guerre_70956
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rolland, Romain
+    alias: Rollan, R.
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '2602'
+    url: http://www.gutenberg.org/2009/agents/2602
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Romain_Rolland
+    - https://fr.wikipedia.org/wiki/Romain_Rolland
+description: ''
+gutenberg_issued: '2023-06-10'
+identifiers:
+  gutenberg: '70956'
+language: fr
+pgterms:marc904: https://archive.org/details/clerambaulthist00roll/page/5
+pgterms:marc905: 20190327113423rolland
+pgterms:marc906: '1920'
+pgterms:marc907: FR
+production_note: Chuck Greif & the online Distributed Proofreaders Canada team at
+  https://www.pgdpcanada.net
+publication_note: '  $aFrance :$bAlbin Michel, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Clerambault : $b Histoire d''une concience libre pendant la guerre'
+url: http://www.gutenberg.org/ebooks/70956
